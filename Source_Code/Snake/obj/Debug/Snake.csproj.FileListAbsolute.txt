@@ -1,0 +1,15 @@
+C:\Users\Guilherme\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Guilherme\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Guilherme\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Guilherme\source\repos\Snake\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\Guilherme\source\repos\Snake\Snake\bin\Debug\Snake.application
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\Guilherme\source\repos\Snake\Snake\obj\Debug\Snake.application

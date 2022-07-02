@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.10.10\bin.Release\net472\PostSharp.Compiler.Engine.dll
+C:\Users\Guilherme\source\repos\Snake\packages\PostSharp.Community.Packer.1.2.0\tools\PostSharp.Community.Packer.Weaver.dll
